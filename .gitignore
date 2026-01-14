@@ -1,0 +1,15 @@
+# WhatsApp Personal Data
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+
+# Media and Attachments
+Media/
+Media/**/*
+
+# Generated Output
+index.html
+*.html
+
+# macOS System Files
+.DS_Store
