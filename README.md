@@ -26,6 +26,8 @@ Maintain the following structure for correct media rendering:
 ├── Media/                 # Local copy of WhatsApp Media folder
 └── .gitignore             # Git exclusion rules
 
+```
+
 ## Usage
 
 1. **Database Acquisition**:
